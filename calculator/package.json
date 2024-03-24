@@ -1,0 +1,17 @@
+{
+  "dependencies": {
+    "@types/inquirer": "^9.0.7",
+    "inquirer": "^9.2.16",
+    "prompt-sync": "^4.2.0"
+  },
+  "name": "rehan-type",
+  "version": "1.0.0",
+  "main": "rehan.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
